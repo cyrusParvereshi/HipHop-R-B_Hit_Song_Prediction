@@ -40,6 +40,11 @@ Files:
 - SVM classification.ipynb: implementation of SVM classification method
 
 
+# Sound Analysis 
+
+- sound analysis folder: .wav files for hit and non-hit songs
+- Audio data and rf.ipynb: performed random forretst on the audio features obtained from the .wav files
+
 
 
 
