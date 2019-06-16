@@ -1,4 +1,4 @@
-# HipHop-R-B_Hit_Song_Prediction (STA141C_Project)
+# HipHop_and_RNB_Hit_Song_Prediction (STA141C_Project)
 
 This project was done by Cyrus Parvereshi, Rohan Malhotra, and Jonathan Fernandez. The goal of our project is to come up with a predictive model that can be used to predict a hit hip-hop/rnb song. We have defined a hit song by a song that has appeared on the top 50 hip-hop/rnb billboard in the last 10 years. Below categorizes our files and provides a brief description of each one. 
 
