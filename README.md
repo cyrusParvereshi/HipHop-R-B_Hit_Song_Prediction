@@ -13,7 +13,7 @@ Files:
 
 - BillboardAPI_EDA: Looked at the bill board data and is where we got artists.txt from using the Billboard API
 
-- get_artist_features.R: Used this get a df for each artist and all of their songs along with the spotify provided features using spotipyr
+- get_artist_features.R: Used this get a df for each artist and all of their songs along with the spotify provided features using spotifyr
 
 - combiningFunction.R: Used to combine all the dfs into one big df from get_artist_features.R. Final output was final_artist.pkl
 
@@ -21,13 +21,13 @@ Files:
 
 - R&B10yrDF.pkl: A list of every song that has been on top 50 hip-hop/rnb playlist
 
-- Final Data Cration.ipynb: Uses "R&B10yrDF.pkl" to identify which songs are hit songs in the final_artist.pkl data set. The df is cleaned our final data set is made which is "merged.pkl" which was unable to be uploaded to the github that is why it was attatched with our final reports in the canvss submission. 
+- Final Data Creation.ipynb: Uses "R&B10yrDF.pkl" to identify which songs are hit songs in the final_artist.pkl data set. The df is cleaned our final data set is made which is "merged.pkl" which we were unable to be upload to github.
 
-## Machine Learning Algorithims:
+## Machine Learning Algorithms:
 
 - Logistic Regression all variables.ipynb: Logistic regression using all variables.
 
-- Logistic Regression Recursive Feature Elimination.ipynb: Model using features found from Recursive Feature Elimination which was only loudness. 
+- Logistic Regression Recursive Feature Elimination.ipynb: Model using features found from Recursive Feature Elimination, which was only loudness. 
 
 - Logistic Regression using selectkbest feature selection.ipynb: Used ANOVA F-scores to find the top 3 features which were Valence, Liveness, and Loudness.
 
@@ -35,7 +35,7 @@ Files:
 
 - LDA.ipynb: Used to determine important features. 
 
-- RandomForrests.ipynb: implementation of  randomforrests algorithim
+- RandomForrests.ipynb: implementation of  Random Forest algorithim
 
 - SVM classification.ipynb: implementation of SVM classification method
 
@@ -43,7 +43,7 @@ Files:
 # Sound Analysis 
 
 - sound analysis folder: .wav files for hit and non-hit songs
-- Audio data and rf.ipynb: performed random forretst on the audio features obtained from the .wav files
+- Audio data and rf.ipynb: performed random forest algorithm on the audio features obtained from the .wav files
 
 
 
